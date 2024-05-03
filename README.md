@@ -9,7 +9,7 @@ This is the repository for Node-Qnap. Run the following command to generate a bu
 
 ## Pre-installation
 
-- Visit `some-link` to download the installation package for your NAS platform.
+- Visit [Releases](https://github.com/Iagonorg/Mainnet-Node-QNAP/releases) to download the installation package for your NAS platform.
 
 
 ## Installation
