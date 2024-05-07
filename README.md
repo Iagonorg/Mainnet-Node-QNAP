@@ -20,8 +20,7 @@ This is the repository for Node-Qnap. Run the following command to generate a bu
 
 2. Manually install the QNAP application. <br/>
 
-Note: Download the IAGON (.qpkg) package from the link provided above.
-<br/>
+Note: Download the IAGON (.qpkg) package from the link provided above. <br/>
     a. On the top left side, you'll find a button for manual installation. Click on it.
     <br/>
     ![install-manually-icon](./assets/2-install-manually-icon.png)
