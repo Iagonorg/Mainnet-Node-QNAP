@@ -14,11 +14,11 @@ This is the repository for Node-Qnap. Run the following command to generate a bu
 
 ## Installation
 
-1. Log in to QutsHero or the QNAP application. <br/>
+### 1. Log in to QutsHero or the QNAP application. <br/>
 
     ![open-qnap](./assets/1-open-qnap.png)
 
-2. Manually install the QNAP application. <br/>
+### 2. Manually install the QNAP application. <br/>
 
 Note: Download the IAGON (.qpkg) package from the link provided above. <br/>
     a. On the top left side, you'll find a button for manual installation. Click on it.
@@ -34,7 +34,7 @@ Note: Download the IAGON (.qpkg) package from the link provided above. <br/>
     ![browse-file](./assets/4-install-file.png)
 
 
-3. Installation Wizard <br/>
+### 3. Installation Wizard <br/>
     a. Open the Qnap App after installation.
     ![open-iagon-app](./assets/5-open-iagon-app.png)
 
@@ -44,7 +44,7 @@ Note: The directory you mentioned should be valid. <br/>
     
 
 
-5. Once installed, you’ll be prompted with the auth-key after installation. Be sure to save the authorization key in a safe place. <br/>
+## 4. Once installed, you’ll be prompted with the auth-key after installation. Be sure to save the authorization key in a safe place. <br/>
     ![iagon-starting-first-time](./assets/stopped.png)
    <br/>
     Note: If you do not see your auth key here, you can regenerate it as well.
