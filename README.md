@@ -2,10 +2,7 @@
 
 This is the repository for Node-Qnap. Run the following command to generate a build:
 ``` qbuild ```
-:::info
-(Optionally, for developers to check.)
-:::
-
+Note: (Optionally, for developers to check.)
 
 ## Pre-installation
 
@@ -16,22 +13,23 @@ This is the repository for Node-Qnap. Run the following command to generate a bu
 
 ### 1. Log in to QutsHero or the QNAP application. <br/>
 
-    ![open-qnap](./assets/1-open-qnap.png)
+![open-qnap](./assets/1-open-qnap.png)
 
 ### 2. Manually install the QNAP application. <br/>
 
-Note: Download the IAGON (.qpkg) package from the link provided above. <br/>
-    a. On the top left side, you'll find a button for manual installation. Click on it.
-    <br/>
-    ![install-manually-icon](./assets/2-install-manually-icon.png)
-    <br/>
-    b. Browse File From Directory.
-    <br/>
-    ![browse-file](./assets/3-browse-file.png)
+Note: Download the IAGON (.qpkg) package from the link provided above.
+
+a. On the top left side, you'll find a button for manual installation. Click on it.
 <br/>
-    c. Install File  
-    <br/>
-    ![browse-file](./assets/4-install-file.png)
+![install-manually-icon](./assets/2-install-manually-icon.png)
+<br/>
+b. Browse File From Directory.
+<br/>
+![browse-file](./assets/3-browse-file.png)
+<br/>
+c. Install File  
+<br/>
+![browse-file](./assets/4-install-file.png)
 
 
 ### 3. Installation Wizard
@@ -44,11 +42,12 @@ Note: The directory you mentioned should be valid. <br/>
     
 
 ## 4. Once installed, you’ll be prompted with the auth-key after installation. Be sure to save the authorization key in a safe place. <br/>
-    ![iagon-starting-first-time](./assets/stopped.png)
-   <br/>
-    Note: If you do not see your auth key here, you can regenerate it as well. <br/>
-    a. You can start the iagon-node manually if it shows stopped. For this, click on the start button. <br/>
-    ![start](./assets/start-iagon.png)  
+![iagon-starting-first-time](./assets/stopped.png)
+<br/>
+Note: If you do not see your auth key here, you can regenerate it as well.<br/>
+
+a. You can start the iagon-node manually if it shows stopped. For this, click on the start button. <br/>
+![start](./assets/start-iagon.png)  
 
 ## 5. For Auth Key Regeneration <br/>
  a. Click on the `Auth Key` Button. <br/>
@@ -58,18 +57,25 @@ Note: The directory you mentioned should be valid. <br/>
  Then, you can see your auth Key <br/>
     ![auth-key-regeneration](./assets/regen-auth-key.png)
 
-c. Then Click continue to the application.<br/>
+c. Then Click **Continue** to the application.<br/>
  ![continue](./assets/regen-auth-key-continue.png)
 
-## 6. You can try again from start if something went wrong.
-a. For this click on "Restart Setup". Then it will prompt you to this form. <br/>
-        ![reset-setup](./assets/reset-setup.png)
+## 6.  In some circumstances you may need to clear config
+"eg: if installation went wrong" , in this case you can use `Clear State` button.
+- This can also be useful if user want to change the storagePath, port or storageAmount
+    Note: But be cautious before using it. Because it will;
+- deletes the current state of the application
+
+Before deleting it, you may want to save the storagePath , storageAmount and Authorization Key. They may come handy when re-starting the node again.
+
+a. For this click on "Clear Config" button on top. Then it will prompt you to the setup form. 
+ [reset-setup](./assets/reset-setup.png)
 
 ## 7. You can stop the node by clicking in the stop button in the options.
-a. To stop the iagon node, Click on the stop button. <br/>
+a. To stop the iagon node, Click on the **"Stop"** button. <br/>
     ![change-folder-permission](./assets/stop-iagon.png)
 
-b. You can also stop the node by simply right clicking on it, and selecting "Stop Node." <br/>
+b. You can also stop the node by simply right clicking on it, and selecting "**Stop Node**." <br/>
         ![change-folder-permission](./assets/13-stop.png)
 
 ## 8. You can remove the application as well from the remove option.
