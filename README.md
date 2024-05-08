@@ -21,7 +21,7 @@ a. On the top left side, you'll find a button for manual installation. Click on 
 
 ![install-manually-icon](./assets/2-install-manually-icon.png)
 
-b. Browse File From Directory.
+b. Browse Files from Directory.
 
 ![browse-file](./assets/3-browse-file.png)
 
@@ -40,12 +40,12 @@ Note: The directory you mentioned should be valid.
 ![filling-form-iagon-app](./assets/6-fill-out-form.png)
     
 
-### 4. Once installed, you’ll be prompted with the auth-key after installation. Be sure to save the authorization key in a safe place. <br/>
+### 4. Once installed, you'll be prompted with the auth-key after installation. Make sure to save the authorization key in a safe place. <br/>
 ![iagon-starting-first-time](./assets/running.png)
 <br/>
-Note: If you do not see your auth key here, you can regenerate it as well.
+Note: If you do not see your auth key here, you can also regenerate it.
 
-a. You can start the iagon-node manually if it shows stopped. For this, click on the start button on top left. <br/>
+a. If the iagon-node shows as stopped, you can start it manually. To do so, click on the start button at the top left.
 ![start](./assets/start-iagon.png)  
 
 ### 5. For Auth Key Regeneration <br/>
@@ -56,24 +56,24 @@ b. Click on to Regenerate Authorization Key.
 Then, you can see your auth Key <br/>
 ![auth-key-regeneration](./assets/auth-key-gen.png)
 
-c. If your node is already verified, then then Click continue to the application.<br/>
+c. If your node is already verified, then click "Continue" to proceed to the application.
 
 ![auth-key-no-regen](./assets/auth-key-no-gen.png)
     
-### 6. In some circumstances you may need to restart , in this case you can use `Restart` button.
+### 6. In some circumstances, you may need to restart. In this case, you can use the "Restart" button.
 - This can also be useful if something failed during installation
 ![restart-setup](./assets/restart.png)
 
 
-### 7. You can stop the node by clicking in the stop button in the options.
+### 7. You can stop the node by clicking on the "Stop" button in the options.
 a. To stop the iagon node, Click on the stop button. <br/>
 ![stop-iagon](./assets/stop-iagon.png)
 
-b. You can also stop the node by simply right clicking on it, and selecting "Stop Node." <br/>
+b. You can also stop the node by simply right-clicking on it and selecting "Stop Node."<br/>
 ![stop](./assets/13-stop.png)
 
 
-### 8. You can remove the application as well from the remove option.
+### 8. You can also remove the application by selecting the "Remove" option.
 ![remove](./assets/14-remove.png)
 
 
