@@ -10,10 +10,12 @@ Info: (Optionally, for developers to check.
 
 ## Installation
 
-### 1. Log in to QutsHero or the QNAP application. 
+### Step 1 Login Step
+- Log in to QutsHero or the QNAP application.
 ![open-qnap](./assets/1-open-qnap.png)
 
-### 2. Manually install the QNAP application. <br/>
+### Step 2 Manual Install
+- Manually install the QNAP application.
 
 Note: Download the IAGON (.qpkg) package from the link provided above.
 
@@ -29,7 +31,7 @@ c. Install File
 
 ![browse-file](./assets/4-install-file.png)
 
-### 3. Installation Wizard <br/>
+### Step 3 Installation Wizard 
 
 a. Open the Qnap App after installation.
 ![open-iagon-app](./assets/5-open-iagon-app.png)
@@ -40,7 +42,8 @@ Note: The directory you mentioned should be valid.
 ![filling-form-iagon-app](./assets/6-fill-out-form.png)
     
 
-### 4. Once installed, you'll be prompted with the auth-key after installation. Make sure to save the authorization key in a safe place. <br/>
+### Step 4 Auth-Key Reminder
+- Once installed, you'll be prompted with the auth-key after installation. Make sure to save the authorization key in a safe place.
 ![iagon-starting-first-time](./assets/running.png)
 <br/>
 Note: If you do not see your auth key here, you can also regenerate it.
@@ -48,7 +51,7 @@ Note: If you do not see your auth key here, you can also regenerate it.
 a. If the iagon-node shows as stopped, you can start it manually. To do so, click on the start button at the top left.
 ![start](./assets/start-iagon.png)  
 
-### 5. For Auth Key Regeneration <br/>
+### Step 5 Regenerate Auth Key
 a. Click on the `Auth Key` Button. <br/>
 ![running](./assets/running.png)
 
@@ -60,12 +63,14 @@ c. If your node is already verified, then click "Continue" to proceed to the app
 
 ![auth-key-no-regen](./assets/auth-key-no-gen.png)
     
-### 6. In some circumstances, you may need to restart. In this case, you can use the "Restart" button.
+### Step 6 Restart Option
+- In some circumstances, you may need to restart. In this case, you can use the "Restart" button.
 - This can also be useful if something failed during installation
 ![restart-setup](./assets/restart.png)
 
 
-### 7. You can stop the node by clicking on the "Stop" button in the options.
+### Step 7 Node Stop
+- You can stop the node by clicking on the "Stop" button in the options.
 a. To stop the iagon node, Click on the stop button. <br/>
 ![stop-iagon](./assets/stop-iagon.png)
 
@@ -73,7 +78,8 @@ b. You can also stop the node by simply right-clicking on it and selecting "Stop
 ![stop](./assets/13-stop.png)
 
 
-### 8. You can also remove the application by selecting the "Remove" option.
+### Step 8 Application Removal
+- You can also remove the application by selecting the "Remove" option.
 ![remove](./assets/14-remove.png)
 
 
