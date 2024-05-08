@@ -5,7 +5,7 @@ Info: (Optionally, for developers to check.
 
 ## Pre-installation
 
-- Visit `some-link` to download the installation package for your NAS platform.
+- Visit `https://github.com/Iagonorg/Mainnet-Node-QNAP/releases` to download the installation package for your NAS platform.
 
 
 ## Installation
