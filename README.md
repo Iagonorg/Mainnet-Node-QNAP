@@ -2,9 +2,7 @@
 
 This is the repository for Node-Qnap. Run the following command to generate a build:
 ``` qbuild ```
-:::info
-(Optionally, for developers to check.)
-:::
+Info: (Optionally, for developers to check.
 
 
 ## Pre-installation
