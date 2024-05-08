@@ -14,25 +14,29 @@ Info: (Optionally, for developers to check.
 ![open-qnap](./assets/1-open-qnap.png)
 
 ### 2. Manually install the QNAP application. <br/>
+
 Note: Download the IAGON (.qpkg) package from the link provided above.
-<br/>
+
 a. On the top left side, you'll find a button for manual installation. Click on it.
-<br/>
+
 ![install-manually-icon](./assets/2-install-manually-icon.png)
-<br/>
+
 b. Browse File From Directory.
-<br/>
+
 ![browse-file](./assets/3-browse-file.png)
-<br/>
+
 c. Install File  
-<br/>
+
 ![browse-file](./assets/4-install-file.png)
+
 ### 3. Installation Wizard <br/>
+
 a. Open the Qnap App after installation.
 ![open-iagon-app](./assets/5-open-iagon-app.png)
 
 b. Fill out the Form.
-Note: The directory you mentioned should be valid. <br/>
+Note: The directory you mentioned should be valid.
+
 ![filling-form-iagon-app](./assets/6-fill-out-form.png)
     
 
