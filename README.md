@@ -12,6 +12,7 @@ Info: (Optionally, for developers to check.
 
 ### Step 1 Login Step
 - Log in to QutsHero or the QNAP application.
+
 ![open-qnap](./assets/1-open-qnap.png)
 
 ### Step 2 Manual Install
@@ -34,6 +35,7 @@ c. Install File
 ### Step 3 Installation Wizard 
 
 a. Open the Qnap App after installation.
+
 ![open-iagon-app](./assets/5-open-iagon-app.png)
 
 b. Fill out the Form.
@@ -44,19 +46,23 @@ Note: The directory you mentioned should be valid.
 
 ### Step 4 Auth-Key Reminder
 - Once installed, you'll be prompted with the auth-key after installation. Make sure to save the authorization key in a safe place.
+
 ![iagon-starting-first-time](./assets/running.png)
 <br/>
 Note: If you do not see your auth key here, you can also regenerate it.
 
 a. If the iagon-node shows as stopped, you can start it manually. To do so, click on the start button at the top left.
+
 ![start](./assets/start-iagon.png)  
 
 ### Step 5 Regenerate Auth Key
-a. Click on the `Auth Key` Button. <br/>
+a. Click on the `Auth Key` Button.
+
 ![running](./assets/running.png)
 
 b. Click on to Regenerate Authorization Key.
-Then, you can see your auth Key <br/>
+Then, you can see your auth Key
+
 ![auth-key-regeneration](./assets/auth-key-gen.png)
 
 c. If your node is already verified, then click "Continue" to proceed to the application.
@@ -66,20 +72,24 @@ c. If your node is already verified, then click "Continue" to proceed to the app
 ### Step 6 Restart Option
 - In some circumstances, you may need to restart. In this case, you can use the "Restart" button.
 - This can also be useful if something failed during installation
+
 ![restart-setup](./assets/restart.png)
 
 
 ### Step 7 Node Stop
 - You can stop the node by clicking on the "Stop" button in the options.
-a. To stop the iagon node, Click on the stop button. <br/>
+a. To stop the iagon node, Click on the stop button.
+
 ![stop-iagon](./assets/stop-iagon.png)
 
-b. You can also stop the node by simply right-clicking on it and selecting "Stop Node."<br/>
+b. You can also stop the node by simply right-clicking on it and selecting "Stop Node."
+
 ![stop](./assets/13-stop.png)
 
 
 ### Step 8 Application Removal
 - You can also remove the application by selecting the "Remove" option.
+
 ![remove](./assets/14-remove.png)
 
 
